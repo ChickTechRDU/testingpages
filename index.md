@@ -2,4 +2,6 @@
 layout: default
 ---
 
-Hello from the index!
+## Hello!
+
+Greetings from the index!
