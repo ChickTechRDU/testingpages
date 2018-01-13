@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: Testing Pages
 description: An experiment to test pages
+is_project_page: false
