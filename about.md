@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-It's all about the experiment.
+This is a website about the galaxy known as NGC 891. It is a favorite of many.
