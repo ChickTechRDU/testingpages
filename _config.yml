@@ -1,6 +1,7 @@
 remote_theme: poole/hyde
 title: NGC 891
 description: All about galaxy NGC 891
+url: https://mhrivnak.github.io/testingpages/
 
 author:
   name: Just Me
