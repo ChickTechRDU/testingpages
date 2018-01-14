@@ -1,7 +1,8 @@
-remote_theme: poole/hyde
+remote_theme: jeromelachaud/freelancer-theme
 title: NGC 891
 description: All about galaxy NGC 891
 url: https://mhrivnak.github.io/testingpages/
+baseurl: /testingpages
 
 author:
   name: Just Me
