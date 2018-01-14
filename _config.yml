@@ -3,5 +3,4 @@ title: NGC 891
 description: All about galaxy NGC 891
 name: Just Me
 
-include:
-  - _pages
+include: ["_pages"]
