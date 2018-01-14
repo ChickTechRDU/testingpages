@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NGC891HunterWilson.jpg/350px-NGC891HunterWilson.jpg "Photo")
