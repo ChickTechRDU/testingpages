@@ -13,3 +13,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+author:
+  name   : "NGC 891"
+  avatar : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NGC891HunterWilson.jpg/350px-NGC891HunterWilson.jpg"
+  bio    : "A galaxy in Andromeda"
+  email  : # optional
+  uri    : 
