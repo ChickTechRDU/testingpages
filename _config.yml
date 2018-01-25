@@ -1,9 +1,9 @@
 remote_theme: mmistakes/minimal-mistakes
-title: Galaxy NGC 891
-description: All about galaxy NGC 891
-name: Just Me
+title: Sample Pages
+description: Some Sample Pages
+name: First Last
 
-include: ["_pages"]
+include: ["_pages","_posts"]
 
 defaults:
   # _pages
@@ -13,11 +13,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-author:
-  name   : "NGC 891"
-  avatar : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NGC891HunterWilson.jpg/350px-NGC891HunterWilson.jpg"
-  bio    : "A galaxy in Andromeda"
-  email  : # optional
-  uri    : 
-  location: 02h 22m 33.4s, +42° 20′ 57″
